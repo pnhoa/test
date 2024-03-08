@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì....",
   text10: "Iu Bảo Trân nhiều quá luôn ó",
   text11:
-    "Happy international women's day Bảo Trân nha",
+    "Happy international women's day em iu nha",
   text12: "<3 <3",
 };
 
