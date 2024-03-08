@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Hế luu Bx!",
-  text2: "Ox có điều này muốn hỏi Bx nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Bx yêu Ox có phải không nào ._.",
-  text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
-  text5: "Khom iu Ox nha :))",
-  text6: "Iu Ox nhèo nhèo :))",
-  text7: "Sao Bx iu Ox vại. :vvvv",
-  text8: "Gửi cho Ox di <3",
-  text9: "Vì Ox đẹp try vlllll",
-  text10: "Iu Vk quá luôn ó",
+  text1: "Hello Bảo Trân nhá",
+  text2: "Anh có điều này muốn hỏi em nì....",
+  text3: "Yêu Như Hòa nhiều hông á",
+  text4: "Bảo Trân phải trả lời nha",
+  text5: "Hông",
+  text6: "Yêu Như Hòa nhiều",
+  text7: "Sao yêu Như Hòa dợ :))",
+  text8: "Gửi cho anh đi :>",
+  text9: "Vì....",
+  text10: "Iu Bảo Trân nhiều quá luôn ó",
   text11:
-    "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
-  text12: "Okii lunn <3",
+    "Happy international women's day Bảo Trân nha",
+  text12: "<3 <3",
 };
 
 $(document).ready(function () {
